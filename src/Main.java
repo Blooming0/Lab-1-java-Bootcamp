@@ -48,7 +48,7 @@ Write a Java program to print the area and perimeter of a circle
 
         /*
             (----------------Question 4------------)
-Java program to find out the average of a set of integers
+        Java program to find out the average of a set of integers
                 (------------Solution----------)
         //  consider a set is only 6 numbers .
         float sum = 0 ;
